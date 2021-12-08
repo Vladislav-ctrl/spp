@@ -1,0 +1,5 @@
+bin
+obj
+spp_lab1
+*.sln
+*.csproj
